@@ -20,6 +20,7 @@ public class HelloWorldClient {
         System.out.println( helloResponse.getText() );
         channel.shutdown();
 
+
     }
 
 }
